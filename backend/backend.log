@@ -1,0 +1,9 @@
+
+> start
+> node dist/app.js
+
+[dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  override existing env vars with { override: true }
+[dotenv@17.2.3] injecting env (0) from .env -- tip: 🔐 prevent building .env in docker: https://dotenvx.com/prebuild
+⚠️  Running in MOCK MODE (No Google Credentials Found). Data will not be persisted.
+Server is running on port http://localhost:5000
+Terminated

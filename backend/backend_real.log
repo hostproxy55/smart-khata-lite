@@ -1,0 +1,8 @@
+
+> start
+> node dist/app.js
+
+[dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  specify custom .env file path with { path: '/custom/path/.env' }
+[dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  load multiple .env files with { path: ['.env.local', '.env'] }
+⚠️  Running in MOCK MODE (No Google Credentials Found). Data will not be persisted.
+Server is running on port http://localhost:5000
